@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @virrodriguez000
-- 👀 I’m interested in  el desarrollo de software y otras tecnologías vinculadas como IoT, I.A
+- 👀 I’m interesada en  el desarrollo de software y otras tecnologías vinculadas como IoT, I.A
 - Actualmente estoy aprendiendo C#, Java, Python, HTML, SQLServer, etc Estoy en un nivel principiante e inexperto. Quiero  adquirir experiencia.
 - 📫 Mi correo es virlive1@gmail.com
 - SALUDOS!!!
